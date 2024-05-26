@@ -5,3 +5,12 @@ cart items, Orders, Payments, after-order functionalities such as reduce the qua
 send the order received email, clearing the cart, Order completion page as well as generating an invoice
 for the order. My account functionalities for the customer who can easily edit his profile, profile pictures,
 change his account password, and also manage his orders and much more.
+
+# Features
+- Custom User Model
+- Categories and Products
+- Incrementing, Decrementing, and Removing Cart Items
+- Orders
+- Payments
+- After-Order Functionalities
+- My Account Functionalities
