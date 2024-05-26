@@ -4,4 +4,4 @@ includes custom user model, categories and products, Carts, Incrementing, Decrem
 cart items, Orders, Payments, after-order functionalities such as reduce the quantify of sold products,
 send the order received email, clearing the cart, Order completion page as well as generating an invoice
 for the order. My account functionalities for the customer who can easily edit his profile, profile pictures,
-change his account password, and also manage his orders and much more
+change his account password, and also manage his orders and much more.
